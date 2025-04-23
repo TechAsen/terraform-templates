@@ -1,4 +1,4 @@
-# 🏗️ Terraform Templates
+# 🏗️ Terraform Templates Proxmox
 
 Quick-start Terraform configurations for common infrastructure setups I often deploy.
 
